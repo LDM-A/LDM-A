@@ -1,5 +1,5 @@
 <h1 align="center">LDM-A</h1>
-<h3 align="center">Data Engineer @ Klarrio</h3>
+<h3 align="center"><a href="https://klarrio.com/">Data Engineer @ Klarrio</a></h3>
 <h2 align="center">| Database Design | Distributed Systems | Functional Programming | Open source |</h2>
 
 
