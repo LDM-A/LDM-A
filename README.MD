@@ -1,4 +1,4 @@
-<h1 align="center">LarsDM/h1>
+<h1 align="center">LarsDM</h1>
 <h3 align="center"><a href="https://klarrio.com/">Data Engineer @ Klarrio</a></h3>
 <h2 align="center">| Database Design | Distributed Systems | Functional Programming | Open source |</h2>
 
