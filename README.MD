@@ -1,6 +1,6 @@
 <h1 align="center">LarsDM</h1>
 <h3 align="center"><a href="https://klarrio.com/">Data Engineer @ Klarrio</a></h3>
-<h2 align="center">| Database Design | Distributed Systems | Functional Programming | Open source |</h2>
+<h2 align="center">| Database Design | Distributed Systems | Open source |</h2>
 
 
 - 🔭 I’m currently working on [Immutable datastore stack](https://github.com/LDM-A/Pandora) (Pandora)
