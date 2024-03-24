@@ -3,7 +3,7 @@
 <h2 align="center">| Database Design | Distributed Systems | Open source |</h2>
 
 
-- 🔭 I’m currently working on [Immutable datastore stack](https://github.com/LDM-A/Pandora) (Pandora)
+- 🔭 I’m currently working on [Quanta](https://github.com/quantanotes)
 
 - 🌱 I’m currently learning **Rust**
 
