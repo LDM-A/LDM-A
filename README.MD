@@ -1,13 +1,9 @@
 <h1 align="center">LarsDM</h1>
-<h3 align="center"><a href="https://klarrio.com/">Data Engineer @ Klarrio</a></h3>
+<h3 align="center"><a href="https://klarrio.com/">R&D Software Engineer</a></h3>
 <h2 align="center">| Database Design | Distributed Systems | Open source |</h2>
 
 
 - 🔭 I’m currently working on [Quanta](https://github.com/quantanotes)
-
-- 🌱 I’m currently learning **Rust**
-
-- 👯 I’m looking to collaborate on **Distributed/Decentralized Projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
